@@ -3,4 +3,4 @@ function Sub(a, b) {
   return a - b;
 }
 
-Sub(9, 3);
+Sub(6, 3);
