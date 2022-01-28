@@ -3,4 +3,4 @@ function Add(a, b) {
   return a + b;
 }
 
-Add(9, 9);
+Add(15, 9);
