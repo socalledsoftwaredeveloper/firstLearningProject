@@ -3,4 +3,4 @@ function Mul(a, b) {
   return a * b;
 }
 
-Mul(16, 3);
+Mul(26, 3);
